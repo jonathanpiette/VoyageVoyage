@@ -1,0 +1,9 @@
+# Faux positifs gitleaks pour jonathanpiette/VoyageVoyage, audit pixelodyssey-dev/platform-infra#55 (gitleaks 8.30.1, scan du 2026-11-23, clone --mirror GitHub)
+# Faux positifs uniquement. Format : commit:fichier:règle:ligne.
+
+## Atteignables depuis les branches et tags
+# identifiants d’objets Xcode dans Pods.xcodeproj
+d7423438e65611ae13f18c77f67c5ea880847a5f:Pods/Pods.xcodeproj/project.pbxproj:square-access-token:414
+d7423438e65611ae13f18c77f67c5ea880847a5f:Pods/Pods.xcodeproj/project.pbxproj:square-access-token:453
+d7423438e65611ae13f18c77f67c5ea880847a5f:Pods/Pods.xcodeproj/project.pbxproj:square-access-token:48
+d7423438e65611ae13f18c77f67c5ea880847a5f:Pods/Pods.xcodeproj/project.pbxproj:square-access-token:550
